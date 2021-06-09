@@ -1,0 +1,12 @@
+.conteiner {
+  width: 90%;
+  height: 100%;
+  display: flex;
+}
+
+.cuadro {
+  background-color: black;
+  border: 1px solid rebeccapurple;
+  width: 200px;
+  height: 200px;
+}
